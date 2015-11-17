@@ -1,0 +1,16 @@
+body {
+	background-color: #222;
+}
+
+canvas {
+	display: block;
+	margin: 0 auto;
+}
+
+div#poem {
+	width: 600px;
+	font-size: 20pt;
+	font-family: monospace;
+	color: #eee;
+	margin: 0 auto;
+}
