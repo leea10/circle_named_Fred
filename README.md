@@ -2,9 +2,11 @@
 My Code Poem (Project #3) for Art, Code, Interactivity class
 
 **Run Instructions**
+
 Run display.html in a browser that supports HTML5 canvas (e.g. Chrome)
 
 **Description**
+
 The output is a limerick and simple visual 
 
 It's about an unfulfilled and rather fickle circle named Fred
@@ -46,6 +48,7 @@ Make_Fred_want('a_different_hue');
 ------------------------------------------
 
 **Known Issues**
+
 Right now, these function calls are completely trivial.
 
 I was hoping to (and might one day accomplish) divide the output-generating code into the function declarations
